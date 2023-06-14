@@ -1,0 +1,49 @@
+.logo
+{
+    width: 65px;
+    height: 65px;
+}
+.nav-item
+{
+    font-size: 22px;
+    color: black !important;
+}
+.redcol
+{
+    color: rgb(212, 34, 93) !important;
+}
+.card-img-top
+{
+    width: 400px;
+    height: 400px;
+}
+.main-text
+{
+    font-size: 40px;
+    font-weight: bold;
+}
+.hero-para-text
+{
+    font-weight: 600;
+    font-size: 18px
+}
+.my-btn:hover
+{
+    background-color: rgb(212, 34, 93) !important;
+    color: white !important;
+}
+.my-btn
+{
+    border-color: rgb(212, 34, 93);
+    background-color: white;
+    color: rgb(212, 34, 93);
+}
+.card-img
+{
+    width: 100%;
+    height: 200px;
+}
+.Products
+{
+    color: rgb(134, 11, 52);
+}
